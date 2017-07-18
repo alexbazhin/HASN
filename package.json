@@ -1,0 +1,15 @@
+{
+  "name": "hasn",
+  "version": "1.0.0",
+  "description": "Here all social networks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Bazhin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
